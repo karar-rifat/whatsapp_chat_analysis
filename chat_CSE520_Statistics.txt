@@ -1,0 +1,1042 @@
+12/12/2021, 12:55 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+16/06/2021, 14:36 - +60 10-249 1349 created group "CSE520 Statistics"
+12/12/2021, 12:55 - You joined using this group's invite link
+12/12/2021, 13:15 - +880 1785-270550: Khujei to pai na😑
+12/12/2021, 13:30 - +880 1703-231078: etar mean r variance ki hobe?
+12/12/2021, 13:31 - +880 1785-270550: This message was deleted
+12/12/2021, 13:33 - +880 1319-209757: Vaiyera sobai, ajke bachaiyen ektu
+12/12/2021, 13:34 - +880 1785-270550: Normal distribution keno variance ke underestimate kore?
+12/12/2021, 13:34 - +880 1772-625585: likelihood ke hobe
+12/12/2021, 13:35 - +880 1785-270550: Jetai hok ans ta den😑
+12/12/2021, 14:01 - +880 1923-611658: Syllabus to probability and simulation and maximum likelihood e 2 tai na
+12/12/2021, 14:02 - +880 1703-231078: ha
+12/12/2021, 14:11 - +880 1830-033012: https://www.projectrhea.org/rhea/index.php/Maximum_Likelihood_Estimation_Analysis_for_various_Probability_Distributions
+12/12/2021, 14:11 - +880 1830-033012: eta theke ki kichu bujha jay?
+12/12/2021, 14:18 - +880 1772-625585: Ami ajk fail korbo
+12/12/2021, 14:19 - +880 1830-033012: high five 😐
+12/12/2021, 14:19 - +880 1772-625585: Nirghat fail...kono chance nai ajk amr
+12/12/2021, 14:27 - +880 1782-238003: This message was deleted
+12/12/2021, 14:27 - +880 1782-238003: Amaro durbikkho lagche pasher kono shomvobonai nai
+12/12/2021, 14:47 - +880 1672-301408: 😥
+12/12/2021, 14:57 - +880 1785-270550: Meyera konodin fail kre na. Fail krle amr moto kichu chele krte pre
+12/12/2021, 15:02 - +880 1703-231078: Beshi fail fail koiren na sobai, asha kintu abar kubol hoiye jabe 🙊
+12/12/2021, 15:14 - +880 1830-033012: @8801772625585 apu sir ke ektu boilen jeno first mid er marks ta ektu taratari dey!
+12/12/2021, 15:16 - +880 1772-625585: Ok
+12/12/2021, 15:36 - +880 1751-540721: Uni result deoar khetre dhila, taratari bole kono lav nai, goto sem e ML ei dekhsi
+12/12/2021, 15:41 - +880 1521-227101: Exam koitay ajk?
+12/12/2021, 15:41 - +880 1985-034915: 8 pm
+12/12/2021, 15:41 - +880 1772-625585: 8pm
+12/12/2021, 15:41 - +880 1521-227101: Thanks a lot
+12/12/2021, 16:37 - +880 1782-238003: Kew help korbe ajhke ?????  😪
+12/12/2021, 17:35 - +880 1785-270550: This message was deleted
+12/12/2021, 18:18 - +880 1785-270550: Atar ans keu paisen?
+12/12/2021, 18:18 - +880 1785-270550: Normal distribution er jonne maximum likelihood estimation ki variance ke underestimate kore? Explain
+12/12/2021, 18:18 - +880 1772-625585: No
+12/12/2021, 18:18 - +880 1785-270550: Normal distribution er jonne maximum likelihood estimation ki variance ke underestimate kore? Ata paisen?
+12/12/2021, 18:19 - +880 1772-625585: Eki to question 😑
+12/12/2021, 18:23 - +880 1785-270550: X ~ Exponential(λ),
+
+λ = (1/Beta)  hoy kivabe?
+12/12/2021, 18:29 - +880 1830-033012: eta dekhen
+12/12/2021, 19:18 - +880 1718-973454: CSE 520: Statistics for Data Science 
+Midterm 02
+Time: 8:00 PM (Today)
+12/12/2021, 19:21 - +880 1782-238003: Vai help koiren
+12/12/2021, 19:42 - +880 1772-625585: Shoby help koiren
+12/12/2021, 19:50 - +880 1672-301408: Exam ki suru hobe+
+12/12/2021, 19:51 - +880 1772-625585: 8tay to
+12/12/2021, 19:51 - +880 1782-238003: ভাই হেল্প সেল্প কইরেন???
+12/12/2021, 19:52 - +880 1712-050585: bhai final er janno kaw re vara kore ani sobai mile
+12/12/2021, 19:53 - +880 1568-283695: Idea kharap na.
+12/12/2021, 19:53 - +880 1742-284602: yeah lol
+12/12/2021, 19:56 - +880 1672-301408: Lol
+12/12/2021, 19:57 - +880 1782-238003: 🤣🤣🤣🤣🤣🤣
+12/12/2021, 19:57 - +880 1772-625585: 🤣
+12/12/2021, 19:59 - +880 1672-301408: Preparation ki suru hoise
+12/12/2021, 19:59 - +880 1703-231078: exam kokhn?
+12/12/2021, 19:59 - +880 1672-301408: 8 tay
+12/12/2021, 20:00 - +880 1703-231078: sir koi
+12/12/2021, 20:01 - +880 1772-625585: Shoby join den
+12/12/2021, 20:01 - +880 1718-973454: qes ready kortise
+12/12/2021, 20:01 - +880 1772-625585: Ami ajk 1ta kisu likhte parbo na
+12/12/2021, 20:02 - +880 1772-625585: Question e likhe dibo mone hoi
+12/12/2021, 20:02 - +880 1782-238003: Kaowk dekhtechina
+12/12/2021, 20:02 - +880 1319-209757: kono soution paisen boi er keu??
+12/12/2021, 20:02 - +880 1782-238003: Groupe ki kono helping hand ache? ¿?
+12/12/2021, 20:02 - +880 1772-625585: Yep
+12/12/2021, 20:03 - +880 1772-625585: <Media omitted>
+Solutions_Manual_to_accompany_STATISTICS)_3rd.pdf
+12/12/2021, 20:03 - +880 1782-238003: Thakle ajhke pulsirat par korai dieyen 😑
+12/12/2021, 20:03 - +880 1785-270550: Sbar kache ami sahajjoparthi
+12/12/2021, 20:03 - +880 1785-270550: 😑
+12/12/2021, 20:04 - +880 1751-540721: Exam ki hobena?
+12/12/2021, 20:04 - +880 1319-209757: asha kori beche jabo ebar... eta diye kaj hoye jabe mone hocche
+12/12/2021, 20:04 - +880 1782-238003: Shobai join dichen???
+12/12/2021, 20:04 - +880 1785-270550: Sir ki asche?
+12/12/2021, 20:04 - +880 1751-540721: Sir asche
+12/12/2021, 20:04 - +880 1772-625585: K kotha bole
+12/12/2021, 20:06 - +880 1670-724679: Shobai join Koren
+12/12/2021, 20:06 - +880 1772-625585: Plz help
+12/12/2021, 20:06 - +880 1772-625585: J ja solution jkhan theke pan share dien
+12/12/2021, 20:06 - +880 1703-231078: sir bollo ques easy hoiche,
+sobaik help korte
+12/12/2021, 20:07 - +880 1772-625585: 😄
+12/12/2021, 20:07 - +880 1830-033012: sir sobsomoy e bole ques easy hoise🥴
+12/12/2021, 20:08 - +880 1568-283695: Etar opposite  ta vebe nite hobe
+12/12/2021, 20:10 - +880 1782-238003: vai
+12/12/2021, 20:20 - +880 1923-508675: 4 এর এন্সার মেবি বইয়ের Example - 4.69 হবে
+12/12/2021, 20:21 - +880 1772-625585: <Media omitted>
+12/12/2021, 20:22 - +880 1923-508675: হ্যা সেম প্রশ্ন
+12/12/2021, 20:23 - +880 1751-540721: Keu kindly screenshot den ans er, amar net e prob
+12/12/2021, 20:28 - +880 1670-724679: sir koilo ki ar dilo ki!!!
+12/12/2021, 20:28 - +880 1923-508675: answer_82025_2.pdf (file attached)
+answer_82025_2.pdf
+12/12/2021, 20:28 - +880 1923-508675: ১ নাম্বার
+12/12/2021, 20:29 - +880 1923-508675: কেউ কি ২ পাইসেন ?
+12/12/2021, 20:36 - +880 1751-540721: Bootstrap erta keu disen?
+12/12/2021, 20:49 - +880 1830-033012: 2 likhsen keu?
+12/12/2021, 20:52 - +880 1785-270550: 1 likhsen?
+12/12/2021, 20:53 - +880 1751-540721: 1 er answer
+12/12/2021, 20:53 - +880 1785-270550: <Media omitted>
+12/12/2021, 20:53 - +880 1785-270550: Vai avabe pic eke dite hbe?
+12/12/2021, 20:54 - +880 1751-540721: 2 likhsen keu?
+12/12/2021, 20:54 - +880 1751-540721: Deoatai maybe valo
+12/12/2021, 20:57 - +880 1712-050585: 2 likchen?
+12/12/2021, 20:57 - +880 1772-625585: *2no??
+12/12/2021, 20:58 - +880 1568-283695: Na
+12/12/2021, 20:58 - +880 1568-283695: Kew likhle den plzzz
+12/12/2021, 20:58 - +880 1782-238003: 2???
+12/12/2021, 20:58 - +880 1772-625585: Why bootstrap is not
+suitable for time series data? Explain briefly.
+12/12/2021, 20:58 - +880 1772-625585: eta ans ki
+12/12/2021, 20:59 - +880 1568-283695: Etai
+12/12/2021, 21:01 - +880 1751-540721: <Media omitted>
+Ami evabe disi
+12/12/2021, 21:01 - +880 1782-238003: vaib 2 ???
+12/12/2021, 21:01 - +880 1751-540721: Sir 2 er method konta bollen jeno?
+12/12/2021, 21:02 - +880 1782-238003: 2 ke jeno likhche
+12/12/2021, 21:02 - +880 1782-238003: leikha harai geche
+12/12/2021, 21:03 - +880 1923-508675: https://stattrek.com/probability-distributions/poisson.aspx
+
+
+
+এইখান থেমে মেবি ২ এর এন্সার করা যাবে, একটু চেক করে জানান
+12/12/2021, 21:03 - +880 1703-231078: vai likhle den
+12/12/2021, 21:04 - +880 1923-508675: এইটাই ত লিঙ্ক সাথে। একটু দেখেন । আমার কাসে ত মনে হয় মেচ করে
+12/12/2021, 21:05 - +880 1923-508675: <Media omitted>
+এইটা ২ এর i এর সাথে মেচ করে
+12/12/2021, 21:09 - +880 1785-270550: 2 keu disen?
+12/12/2021, 21:10 - +880 1703-231078: ans ase kichu?
+12/12/2021, 21:14 - +880 1772-625585: Ans koto
+12/12/2021, 21:14 - +880 1782-238003: vai 2 no???
+12/12/2021, 21:14 - +880 1782-238003: korchen kew?
+12/12/2021, 21:14 - +880 1751-540721: 1. A. Paisi 0.022
+B. Paisi 0.168
+12/12/2021, 21:15 - +880 1782-238003: vai ekti pic tuila den
+12/12/2021, 21:15 - +880 1785-270550: pic den
+12/12/2021, 21:15 - +880 1751-540721: <Media omitted>
+12/12/2021, 21:16 - +880 1751-540721: <Media omitted>
+Eta a er moto kore korsi
+12/12/2021, 21:16 - +880 1751-540721: 2nd part keu korle den
+12/12/2021, 21:17 - +880 1703-231078: emon e ase otar moton korle
+12/12/2021, 21:17 - +880 1751-540721: Ha
+12/12/2021, 21:18 - +880 1772-625585: %*ha
+12/12/2021, 21:19 - +880 1772-625585: thik ase
+12/12/2021, 21:19 - +880 1785-270550: 2 er 2?
+12/12/2021, 21:21 - +880 1782-238003: 2 er 2 ??
+12/12/2021, 21:23 - +880 1772-625585: kori nai
+12/12/2021, 21:24 - +880 1782-238003: vai 2 er 2 ??
+12/12/2021, 21:24 - +880 1860-826362: Submit ke korce.?
+12/12/2021, 21:25 - +880 1782-238003: 2 er 2 den
+12/12/2021, 21:25 - rifat hannan: keu ki ek no ta diben??
+12/12/2021, 21:25 - +880 1782-238003: 1 upore deya ache
+12/12/2021, 21:44 - rifat hannan: You deleted this message
+12/12/2021, 22:00 - +880 1670-724679: Jak, joto kharap vabsilam otota o kharap hoy nai ki bolen?
+12/12/2021, 22:01 - +880 1772-625585: Ami likhte pari nai valo vabe...😩😭
+12/12/2021, 22:02 - +880 1670-724679: So sad :( 
+ei exam 1.5 hour er
+12/12/2021, 22:09 - +880 1670-724679: thanks @8801751540721 @8801923508675
+12/12/2021, 22:11 - +880 1923-611658: 🥰
+12/12/2021, 22:30 - +880 1772-625585: Thank you everyone💚
+12/12/2021, 22:36 - +880 1782-238003: সবাইকে ধন্যবাদ
+12/12/2021, 22:40 - +880 1751-540721: Amar ajke obostha kharap, office e boshe exam disi, tao abar foreign online audit er jonno regular shob pc er net off kore rakhse, ja korsi mobile use kore, only if I had a usable pc, ekhono hat kaptese
+12/12/2021, 23:24 - rifat hannan: thanks everyone
+12/12/2021, 23:40 - +880 1785-270550: Thanks sobai ke
+12/12/2021, 23:59 - +880 1300-014319: Bhai amr o same. Office bose bose xm dilam
+13/12/2021, 16:47 - +880 1712-050585: Sir mark publish na korle tu bujte parbona ki obostha. Final e koto lagbe
+13/12/2021, 16:48 - +880 1772-625585: o kalk na bolbo vabsilam...vule gesi...achha me boltesi sir k
+18/12/2021, 22:58 - +880 1319-209757: কালকে কোনো সিটি/মিড/ফাইনাল আছে?
+18/12/2021, 22:58 - +880 1985-034915: Nah
+18/12/2021, 22:58 - +880 1319-209757: থ্যাংকস সিআর আপু
+18/12/2021, 22:59 - +880 1985-034915: Welcome vaia. But ami CR na vaia...ami general student
+18/12/2021, 23:01 - +880 1772-625585: No kalk kono exam nai BTW kalk sir k marks kotha ask korte hobe...
+18/12/2021, 23:01 - +880 1985-034915: Ji apu...
+18/12/2021, 23:01 - +880 1772-625585: Na hole bujha jache na k kemon marks pachi...
+18/12/2021, 23:01 - +880 1319-209757: সরি, ডাটাবেস ক্লাসে রুবাইয়্যাত বিনতে হাসান CR, আপনার নামের সাথে মিলে তাই লিখে ফেলেছি
+18/12/2021, 23:01 - +880 1985-034915: Sir jmn inactive sir k bar bar bola lagbe
+18/12/2021, 23:01 - +880 1772-625585: Ha...
+18/12/2021, 23:01 - +880 1985-034915: R bujhao jache na sir kmn marks dibe
+18/12/2021, 23:01 - +880 1985-034915: 😓😓😓
+18/12/2021, 23:02 - +880 1319-209757: স্যার তো কোনো মার্কস এখনও দেখায় নি, তাই কোনো রিকোয়েস্ট ও করা যাচ্ছে না।
+18/12/2021, 23:02 - +880 1319-209757: 😔😔
+18/12/2021, 23:03 - +880 1772-625585: Amr ken jani mone hoche sir valo number dibe na☹️
+18/12/2021, 23:03 - +880 1985-034915: Amr o 😐
+18/12/2021, 23:03 - +880 1319-209757: কয়জন A গ্রেড পাবে কে জানে, স্যার কে চাপ প্রয়োগ করে নাম্বার জেনে নিতে হবে।
+18/12/2021, 23:04 - +880 1772-625585: Ha kalk 1st ay num kotha ask korbo
+18/12/2021, 23:04 - +880 1985-034915: Okay apu thanks
+18/12/2021, 23:04 - +880 1772-625585: Sir ki cls test nisilo kono
+18/12/2021, 23:05 - +880 1985-034915: Nah
+18/12/2021, 23:05 - +880 1985-034915: 30+30+30+10
+18/12/2021, 23:05 - +880 1985-034915: Eta sir er marks distribution
+18/12/2021, 23:05 - +880 1772-625585: Nibe na?naki mid and final e?
+18/12/2021, 23:05 - +880 1772-625585: Ooo
+18/12/2021, 23:05 - +880 1985-034915: Nibei na
+18/12/2021, 23:06 - +880 1985-034915: 30 kre 2 ta mid r final...r 10 attendance
+18/12/2021, 23:06 - +880 1772-625585: Tahole shesh vorosha final exam tai
+18/12/2021, 23:06 - +880 1772-625585: Number na janle to khobor ase
+18/12/2021, 23:06 - +880 1985-034915: Ha setai
+18/12/2021, 23:06 - +880 1319-209757: স্যার কে কেউ বলেন না তাই স্যার দেখায় না!
+18/12/2021, 23:07 - +880 1319-209757: আগামীকাল যেভাবেই হোক জেনে নিতে হবে
+18/12/2021, 23:07 - +880 1772-625585: Sir k ekber bolsilam bole akhono dekhi nai...
+18/12/2021, 23:07 - +880 1319-209757: বাচ্চাদের মত পেরা দিতে হবে🥴🥴
+19/12/2021, 16:24 - +880 1976-090348: Today's class has been cancelled
+19/12/2021, 16:25 - +880 1319-209757: এই কোর্স এর ভবিষ্যৎ কী?🥴🥴🥴🥴
+19/12/2021, 16:25 - +880 1976-090348: Make up class will be on Tuesday this week.
+19/12/2021, 16:25 - +880 1830-033012: vaia Tuesday te mid ache!
+19/12/2021, 16:25 - +880 1985-034915: Tuesday I have mid exam
+19/12/2021, 16:25 - +880 1830-033012: fail
+19/12/2021, 16:25 - +880 1319-209757: কোন কোর্স এর মিড?
+19/12/2021, 16:26 - +880 1830-033012: 503
+19/12/2021, 16:26 - +880 1670-724679: !!!
+19/12/2021, 16:26 - +880 1923-611658: This message was deleted
+19/12/2021, 16:26 - +880 1923-611658: Mam*
+19/12/2021, 16:26 - +880 1703-231078: e hote pare na,
+ami class er jonno koto taka nosto kore net kinlam
+19/12/2021, 16:26 - +880 1976-090348: 🤣
+19/12/2021, 16:26 - +880 1923-611658: 🤣
+19/12/2021, 16:27 - +880 1976-090348: When??
+19/12/2021, 16:27 - +880 1923-611658: <Media omitted>
+19/12/2021, 16:27 - +880 1830-033012: 7.30 pm
+19/12/2021, 16:28 - +880 1976-090348: Ok
+19/12/2021, 16:30 - +880 1772-625585: alamgir vaia sir shathe kotha hole boilen j result jate dia dei.....
+19/12/2021, 17:51 - +880 1712-050585: Class ki confirm hobe na?
+19/12/2021, 18:06 - +880 1976-090348: What kind of bullshit question is this??
+19/12/2021, 19:09 - +880 1672-301408: Class ki hobe na?
+19/12/2021, 19:09 - +880 1985-034915: CR to agei inform kreche
+19/12/2021, 19:10 - +880 1772-625585: Na hobe na
+19/12/2021, 19:10 - +880 1672-301408: Ooo
+19/12/2021, 19:11 - +880 1712-050585: Sometime some of us/we make fun annosment. That's why I ask this question for confirmation. I am also mention no one name to ask. If some one wish can reply. Don't think 🤔 you are so important 🙂.
+19/12/2021, 19:14 - +880 1772-625585: @8801976090348 sir next cls Tuesday j bollo onek a to korte parbe na...date/time to change korte hobe. apni sir k ki inform korsen naki me korbo?
+19/12/2021, 19:17 - +880 1751-540721: Monday/wednesday te ami ok
+19/12/2021, 19:17 - +880 1772-625585: Ok r baki ra ki bolen?
+19/12/2021, 19:17 - +880 1985-034915: Ha monday wednesday ok
+19/12/2021, 19:18 - +880 1319-209757: Wednesday ক্লাস আছে, Monday ok
+19/12/2021, 19:22 - +880 1568-283695: Jedin e hok hok online  cls korbo dui tinta ak sathe korlei ki. Amnew taina tuina pass umnew taina tuina pass
+19/12/2021, 19:22 - +880 1772-625585: Onek er exam ache vaia
+19/12/2021, 19:23 - +880 1772-625585: And statistics ektu na bujhle khobor ase
+19/12/2021, 19:25 - +880 1751-540721: Even I was taken aback with this reply, since we don't even have the classes in the varsity, none of us know who's their senior/junior by age, nevertheless we should always show politeness to whomever we speak to. It's not hard to do so, and judging by the fact of the comment, my mate may have to go back to the basics of English grammer once again!
+19/12/2021, 19:25 - +880 1751-540721: On that note, I just want to say, it's good to make fun, but doesn't mean we get to hurt someone with our words/actions in any way! So @8801675792434 I am sorry if I've made you uncomfortable with any of my past comments! And I'm not ashamed to admit this, I'm glad that I've finally let this out of my chest
+19/12/2021, 19:25 - +880 1568-283695: Sir present  dakena r record ta alhamdulillah  valo ase. To jdi xm er peray kew cls ta na korte pare to besi akta pblm howar kothana. R cls joto pisaben totoi postaben.
+19/12/2021, 19:26 - +880 1976-090348: As a CR its my responsibility to inform you. I see this kind of message before every class. I don't get involved. Read, understand and then respond. 
+Lastly, you don't have the freaking right to decide who is important and who is not. Learn some decency and have common sense.
+19/12/2021, 19:26 - +880 1751-540721: Vai/bonera/CR, jevabei hok final exam 16 jan er pore niyen na. Ami taile shesh
+19/12/2021, 19:27 - +880 1772-625585: Ha cls to ay wk ay korte hobe
+19/12/2021, 19:27 - +880 1772-625585: Ok
+19/12/2021, 19:27 - +880 1976-090348: I'll talk to sir about rescheduling.
+19/12/2021, 19:27 - +880 1985-034915: Final pichano jayna
+19/12/2021, 19:28 - +880 1985-034915: Due time ei hbe hope so
+19/12/2021, 19:29 - +880 1751-540721: Maheen maam maybe 18 jan e final niben bolechilen, whereas amader calendar e finals week 7-13 jan
+19/12/2021, 19:29 - +880 1985-034915: Calender chng hoise vaia
+19/12/2021, 19:30 - +880 1830-033012: academic calendar changehoise... ar exam 1 week pichano hoise
+19/12/2021, 19:30 - +880 1751-540721: Updated calendar ki ache website e or karo kache download kora ache?
+19/12/2021, 19:30 - +880 1830-033012: website ei ache
+19/12/2021, 19:30 - +880 1985-034915: Ekhn 14-20 january final
+19/12/2021, 19:31 - +880 1985-034915: <Media omitted>
+619e607689a19878640281.pdf
+19/12/2021, 19:31 - +880 1751-540721: All exam? Maheen maam er exam amar taile Cox's Bazar e boshe deoa lagbe! 🤪
+19/12/2021, 19:35 - +880 1976-090348: Schedule is on 16th. As sir has to submit grades by 25th, he can flex the time if he wants to.
+19/12/2021, 19:38 - +880 1712-050585: That's why everyone ask you. If possible answer or not. You should learn gentle man behavior. Don't say bullshit anything. That is one kind of stupidity.
+19/12/2021, 19:42 - +880 1772-625585: আমরা সবাই শান্ত হই। যা হয়েছে তা হয়েছে। মাঝে মাঝে এমন হয়।এই কথা এখানেই রাখি আমরা।
+19/12/2021, 19:43 - +880 1976-090348: 👍🏽
+19/12/2021, 19:44 - +880 1751-540721: 👍
+19/12/2021, 20:42 - +880 1976-090348: Make up class schedule will be discussed on next class
+30/12/2021, 21:16 - +880 1670-724679: Sir to ekhono lecture content share korlo na, next class chole asche. plz call him.
+30/12/2021, 21:30 - +880 1772-625585: Ok
+30/12/2021, 23:01 - rifat hannan: next class ki exam hobe??
+30/12/2021, 23:02 - rifat hannan: class na korar disadvantage, info jani na
+30/12/2021, 23:04 - +880 1751-540721: Ki exam?
+30/12/2021, 23:05 - rifat hannan: sorry, " next class ki kono exam ase"
+30/12/2021, 23:05 - rifat hannan: ??
+30/12/2021, 23:05 - +880 1751-540721: Nope
+30/12/2021, 23:05 - rifat hannan: 👍
+01/01/2022, 11:08 - +880 1670-724679: <Media omitted>
+02/01/2022, 18:17 - +880 1976-090348: Today's class has been cancelled
+02/01/2022, 18:17 - +880 1772-625585: Is sir OK?
+02/01/2022, 18:17 - +880 1782-238003: Bah
+02/01/2022, 18:18 - +880 1772-625585: Last cls a to onek sick chillo...
+02/01/2022, 18:19 - +880 1703-231078: Jedin ami free sedin e class cancel 😞
+e hote pare,
+ami er tibrro ninda o protibad janai
+02/01/2022, 18:19 - +880 1772-625585: 😄
+02/01/2022, 18:20 - +880 1751-540721: Ami class korar jonno office e theke gelam, r class e holo na! Ami bashay gelam na kere? 😭
+02/01/2022, 18:20 - +880 1772-625585: Ajk me office theke age chuti nisi r ajk cls hobe na
+02/01/2022, 18:20 - +880 1772-625585: Ki kopal amr
+02/01/2022, 18:21 - +880 1670-724679: Sir is Ok, he took ML last Thursday. Maybe he is busy. But did he told anything about makeup class?
+02/01/2022, 18:21 - +880 1772-625585: Akhon to tahole 2ta makeup cls pending
+02/01/2022, 18:22 - +880 1772-625585: Ajk cls a bolar kotha chillo last makeup cls kobe hobe
+02/01/2022, 18:22 - +880 1703-231078: makeup class bad dilei valo,
+
+ja geche ta ki r firiye ana jay?
+02/01/2022, 18:23 - +880 1751-540721: Make up class er make up class neoa lagbe ekhon
+02/01/2022, 18:23 - +880 1772-625585: Statistics porte porte ki poet hoa gelen
+02/01/2022, 18:24 - +880 1703-231078: probability 100%
+02/01/2022, 18:25 - +880 1772-625585: 🤣
+02/01/2022, 18:27 - +880 1670-724679: I think Makeup class ar hobe na. Arekta class niye exam date diye dibe
+02/01/2022, 18:28 - +880 1772-625585: Maybe... becuse deadline eshe portese
+02/01/2022, 18:28 - +880 1670-724679: Sir Last class er content ki share korse?
+02/01/2022, 18:29 - +880 1772-625585: Na akhono to kore nai...
+02/01/2022, 18:31 - +880 1670-724679: Ajkei parle niye nen plz. Cz last class niye exam date dibe for sure. Pore cover korar time pabo na. Tokhon shob exam eksathe shuru hoye jabe
+02/01/2022, 18:34 - +880 1772-625585: Ok
+02/01/2022, 18:35 - +880 1772-625585: Sir k call dia bolbo
+02/01/2022, 19:45 - +880 1976-090348: tuesday make up korte parben sobai??
+02/01/2022, 19:46 - +880 1830-033012: koytay vaia? Tuesday class ase 7-9 pm
+02/01/2022, 19:46 - +880 1976-090348: yes
+02/01/2022, 19:47 - +880 1830-033012: 503 er class ase 7-9 pm
+02/01/2022, 19:47 - +880 1976-090348: wednesday??
+02/01/2022, 19:48 - +880 1985-034915: Ji vaia wednesday possible
+02/01/2022, 19:49 - +880 1976-090348: karo objection thakle janaen by tonight
+02/01/2022, 19:49 - +880 1703-231078: kal class kora jay na?
+02/01/2022, 19:49 - +880 1670-724679: Tuesday ok
+02/01/2022, 19:50 - +880 1976-090348: no
+02/01/2022, 19:50 - +880 1976-090348: akjon er class ase. how about wednesday??
+02/01/2022, 19:51 - +880 1772-625585: Wednesday ok from me
+02/01/2022, 19:51 - +880 1672-301408: 👍🏻
+02/01/2022, 20:01 - +880 1319-209757: Wednesday class ache, Data Mining
+02/01/2022, 20:21 - +880 1976-090348: our last option is friday
+if any of us has class on friday too, then we may need to improvise
+02/01/2022, 20:22 - +880 1319-209757: Friday ok for me
+02/01/2022, 20:22 - +880 1830-033012: Friday te 3.30-6.30 pm class ase
+02/01/2022, 20:26 - +880 1703-231078: friday
+final exam
+02/01/2022, 20:27 - +880 1703-231078: rat 9 ta tar agei
+02/01/2022, 20:27 - +880 1976-090348: Class sondhay hobe, dont worry
+02/01/2022, 20:27 - +880 1830-033012: ok then
+02/01/2022, 20:28 - +880 1976-090348: Exam to 1 week postponed kora hoisilo. Are you sure??
+02/01/2022, 20:28 - +880 1703-231078: yes,
+amader final exam date diye diche last friday te
+02/01/2022, 20:29 - +880 1703-231078: Digital image processing
+02/01/2022, 20:33 - +880 1772-625585: Friday 9:30am to 12:30pm amr cls ase
+02/01/2022, 20:33 - +880 1772-625585: Amr o r 1ta course er final exam date dia dise
+02/01/2022, 20:35 - +880 1830-033012: @8801976090348 vaia apni vote nen... jei date e vote beshi oi din e class nek sir... ar recording to thakbei.. sir ke bujhay bollei hobe je sobai join korte parbe na other class ar exam er korone
+02/01/2022, 21:15 - +880 1785-270550: Friday dip final
+03/01/2022, 01:33 - +880 1718-973454: Alhamdulillah
+03/01/2022, 12:29 - +880 1976-090348: please pick a day for makeup class
+Tuesday or Wednesday
+
+NO OTHER OPTIONS AVAILABLE
+03/01/2022, 12:30 - +880 1985-034915: Wednesday is okay vaia
+03/01/2022, 12:33 - +880 1772-625585: Wednesday
+03/01/2022, 12:34 - +880 1319-209757: Friday
+03/01/2022, 12:40 - +880 1830-033012: Wednesday
+03/01/2022, 12:41 - +880 1923-611658: Wednesday
+03/01/2022, 12:41 - +880 1319-209757: Wednesday Data Mining Class
+03/01/2022, 12:45 - +880 1976-090348: Not an option
+03/01/2022, 13:06 - +880 1703-231078: Friday maximum students er DIP Final exam
+03/01/2022, 13:12 - +880 1670-724679: Then Tuesday koren
+03/01/2022, 13:12 - +880 1319-209757: Tuesday Koren
+03/01/2022, 13:19 - +880 1923-611658: Tuesday Mahin Mam er 503 Cslass ase
+03/01/2022, 16:42 - +880 1976-090348: Wednesday 5
+Tuesday 3
+03/01/2022, 16:42 - +880 1976-090348: Bakira awaj diyen
+03/01/2022, 16:48 - +880 1751-540721: Khub baje time, tuesday 3 office hours, wednesday 5 departure time from office
+03/01/2022, 16:48 - +880 1830-033012: tues 3 mane Tuesday er pokkhe 3 jon vote dise
+03/01/2022, 16:48 - +880 1830-033012: wed 5 mane Wednesday er pokkhe 5 ta vote
+03/01/2022, 16:49 - +880 1830-033012: if I'm not wrong
+03/01/2022, 16:50 - +880 1751-540721: Oh okay then, ami Wednesday
+03/01/2022, 16:51 - +880 1319-209757: Tuesday
+03/01/2022, 16:53 - +880 1670-724679: Change my vote to Wednesday
+04/01/2022, 11:59 - +880 1670-724679: vai class kobe hobe? atleast sir k bolen last class er content gulo share korte, pore ekshathe eto gulo to cover korte parbo na
+04/01/2022, 12:01 - +880 1712-050585: Saturday is maybe ok
+04/01/2022, 12:01 - +880 1751-540721: Saturday te bioinformatics algorithm er class
+04/01/2022, 12:03 - +880 1670-724679: Sir already bole dise Tuesday or Wednesday er majhe jekon ekta choose korte, that means other days not possible
+04/01/2022, 12:06 - +880 1772-625585: Saturday amr exam ase
+04/01/2022, 12:47 - +880 1976-090348: class is tomorrow
+04/01/2022, 12:47 - +880 1976-090348: confirmed with sir
+04/01/2022, 14:59 - +880 1703-231078: class time?
+04/01/2022, 15:02 - +880 1772-625585: Time?
+04/01/2022, 15:47 - +880 1976-090348: 6:30
+04/01/2022, 17:03 - +880 1672-301408: আok
+04/01/2022, 17:03 - +880 1672-301408: Ok
+05/01/2022, 13:52 - +880 1718-973454: ajk class 6:30 pm ?
+05/01/2022, 13:53 - +880 1830-033012: ji
+05/01/2022, 13:54 - +880 1772-625585: Yes
+05/01/2022, 16:35 - +880 1976-090348: Today's makeup class has been cancelled.
+05/01/2022, 16:35 - +880 1976-090348: Enjoy
+05/01/2022, 16:35 - +880 1830-033012: again cancelled🤦🏻‍♀️
+05/01/2022, 16:36 - +880 1718-973454: mne kih.
+05/01/2022, 16:36 - +880 1718-973454: 😭😷
+05/01/2022, 16:37 - +880 1782-238003: Shitt
+05/01/2022, 16:37 - +880 1670-724679: Vai i knew it! karon ageo makeup class neyar try kora hoise but possible hoy nai
+05/01/2022, 16:37 - +880 1782-238003: Evabe hole kmne ki
+05/01/2022, 16:37 - +880 1670-724679: Sir k bolen atleast ML and STAT er ager class gulo share korte
+05/01/2022, 16:39 - +880 1670-724679: This message was deleted
+05/01/2022, 16:40 - +880 1830-033012: mid er marks o dey nai sir
+05/01/2022, 16:40 - +880 1830-033012: pass korbo na fail korbo setao surprise
+05/01/2022, 16:40 - +880 1985-034915: Last e random grade dileo kisu bolar nai
+05/01/2022, 16:40 - +880 1830-033012: random hoar possibility e beshi dekhtesi
+05/01/2022, 16:40 - +880 1782-238003: Sir bolbe prank chilo
+05/01/2022, 16:43 - +880 1670-724679: This message was deleted
+05/01/2022, 16:45 - +880 1772-625585: Marks na dile bujhbo kivabe...☹️
+05/01/2022, 16:47 - +880 1703-231078: Sunday je class ta hobe setaw cancle hoye jak,
+05/01/2022, 17:02 - +880 1712-050585: sir jodi avabe sob class & exam cancel kore sobai ke valo GRADE die dito onek valo hoto
+05/01/2022, 17:49 - +880 1742-284602: true lol
+05/01/2022, 23:17 - +880 1976-090348: Lal batti jalai dibe ne pore!!
+08/01/2022, 11:05 - +880 1670-724679: Sir class ekhono submit kore nai
+08/01/2022, 15:29 - +880 1785-270550: Kal ki kono xm ache?
+08/01/2022, 15:29 - +880 1985-034915: Nah
+08/01/2022, 15:30 - +880 1782-238003: klk naki xm ache stat er????
+08/01/2022, 15:30 - +880 1985-034915: Sir toh kichu bole nai
+08/01/2022, 15:30 - +880 1785-270550: Sure?
+08/01/2022, 15:30 - +880 1782-238003: Na
+08/01/2022, 15:30 - +880 1782-238003: Vasa vasa jani
+08/01/2022, 15:30 - +880 1785-270550: 🙄
+08/01/2022, 15:31 - +880 1782-238003: 😒
+08/01/2022, 15:32 - +880 1785-270550: Xm er bepare sir to kichu ble nai
+08/01/2022, 15:33 - +880 1772-625585: Nahh
+08/01/2022, 15:33 - +880 1772-625585: Sir to kono exam kotha bole nai
+08/01/2022, 15:34 - +880 1785-270550: Tahole to kal xm nai
+08/01/2022, 15:36 - +880 1772-625585: Amr jotodur khayal ase sir to kono exam kotha bole nai and cls e to holo na erpor
+08/01/2022, 15:50 - +880 1703-231078: class 1 ta holo na?
+08/01/2022, 15:50 - +880 1703-231078: tahole exam hobe kivabe?
+08/01/2022, 15:52 - +880 1670-724679: kal bojha jabe
+09/01/2022, 18:10 - +880 1712-050585: ajke class koitai?
+09/01/2022, 18:12 - +880 1772-625585: 6:30
+09/01/2022, 18:32 - +880 1985-034915: Mid-2 er por ekta class e hoyeche na?
+09/01/2022, 18:40 - +880 1772-625585: Ha
+09/01/2022, 18:40 - +880 1772-625585: 1ta cls hoise
+09/01/2022, 18:40 - +880 1985-034915: Okay thank you apu
+09/01/2022, 18:41 - +880 1772-625585: Ami ajk maybe cls join korte parbo na... me onek sick... amk plz update dien....
+09/01/2022, 18:44 - +880 1670-724679: Sir koytay shuru korbe?
+09/01/2022, 18:44 - +880 1985-034915: Bole nai ekhn o kisu sir
+09/01/2022, 18:50 - +880 1703-231078: class start hoiche?
+09/01/2022, 18:50 - +880 1985-034915: Nah
+09/01/2022, 18:50 - +880 1782-238003: বুঝতেছিনা
+09/01/2022, 18:50 - +880 1772-625585: Sir join korse?
+09/01/2022, 18:50 - +880 1703-231078: start hole janiyen
+09/01/2022, 18:50 - +880 1782-238003: স্যারও চুপ আমরাও চুপ
+09/01/2022, 18:52 - +880 1772-625585: Cls start hoise
+09/01/2022, 18:53 - +880 1830-033012: sir ki lecture gula dibe?🙄
+09/01/2022, 18:53 - +880 1830-033012: mane lecture ta
+09/01/2022, 18:53 - +880 1772-625585: Kao recording korte bolen
+09/01/2022, 18:53 - +880 1772-625585: And ager lecture reminder dien
+09/01/2022, 18:56 - +880 1772-625585: Alhumdulliah at last
+09/01/2022, 19:14 - +880 1712-050585: Mid-1,2 mark dibe na?
+09/01/2022, 19:14 - +880 1985-034915: Ei week er modhei pabo sir bollen
+09/01/2022, 19:14 - +880 1772-625585: Ay wk a dibe
+09/01/2022, 19:14 - +880 1772-625585: Final er age
+09/01/2022, 19:15 - +880 1772-625585: Marks a karor kono problem thakle cr k inform korte hobe  as soon as possible
+09/01/2022, 19:16 - +880 1712-050585: 👍
+09/01/2022, 19:27 - +880 1712-050585: Final Exam date diche?
+09/01/2022, 19:27 - +880 1782-238003: স্যার কিছুই দেয় না
+09/01/2022, 19:27 - +880 1772-625585: Next sunday
+09/01/2022, 19:27 - +880 1782-238003: শুধু নেয়
+09/01/2022, 19:43 - +880 1670-724679: kotha bolen na keno?
+09/01/2022, 19:57 - +880 1751-540721: best one! 🥰
+09/01/2022, 19:59 - +880 1712-050585: sir ki nai?
+09/01/2022, 19:59 - +880 1985-034915: Mute
+09/01/2022, 19:59 - +880 1985-034915: Asen
+09/01/2022, 19:59 - +880 1670-724679: sir ekhon kotha bolbe na
+09/01/2022, 20:00 - +880 1751-540721: keu response kore na dekhe gesen ga
+09/01/2022, 20:03 - +880 1670-724679: interesting fact, sir e porjonto ja ja bolse ashbei ektao ashenai 😄
+09/01/2022, 20:31 - +880 1772-625585: Let's see agula ashe naki....
+09/01/2022, 20:31 - +880 1772-625585: Eber o ashbe na amr mone hoi
+09/01/2022, 20:35 - +880 1670-724679: Sir abar na vule gelei hoy
+09/01/2022, 20:35 - +880 1772-625585: Phone dibo
+09/01/2022, 20:37 - +880 1670-724679: Kalker moddhe jevabei hok nite hobe plz
+09/01/2022, 20:37 - +880 1703-231078: accha, tahole exam next Sunday?
+09/01/2022, 20:38 - +880 1712-050585: yes at 8 PM
+09/01/2022, 20:38 - +880 1703-231078: Syllabus ki ki thaklo?
+09/01/2022, 20:39 - +880 1670-724679: Ager class vule gesi ki koraise pdf dile bojha jabe
+09/01/2022, 21:24 - +880 1772-625585: <Media omitted>
+ht.ppt
+09/01/2022, 21:24 - +880 1772-625585: <Media omitted>
+regression.ppt
+10/01/2022, 00:12 - +880 1703-231078: eta video open hocche na
+10/01/2022, 11:32 - +880 1703-231078: video gula ki open hocche apnader?
+10/01/2022, 11:34 - +880 1985-034915: Nah
+10/01/2022, 11:36 - +880 1772-625585: amr to hoi
+10/01/2022, 11:36 - +880 1772-625585: open
+10/01/2022, 11:37 - +880 1772-625585: https://drive.google.com/file/d/1mwvljtjpzA5oKjmK9nPG2ho0pqho9J3e/view
+10/01/2022, 11:37 - +880 1772-625585: https://drive.google.com/file/d/1XuWktbGWNyldWaOYrYkvan9YPOnfXR-w/view
+10/01/2022, 11:44 - +880 1703-231078: 2 ta ache, 2nd ta open hocchilo na
+10/01/2022, 11:45 - +880 1772-625585: 2ta open hoi ..abar check kore dekhen
+10/01/2022, 11:56 - +880 1703-231078: ok
+10/01/2022, 12:24 - +880 1785-270550: Final xm kbe?
+10/01/2022, 12:29 - +880 1772-625585: 16
+10/01/2022, 13:17 - +880 1785-270550: Okay
+10/01/2022, 21:50 - +880 1672-301408: syllabus plz
+10/01/2022, 21:50 - +880 1772-625585: Pdf share korse sir kalk
+10/01/2022, 23:16 - +880 1672-301408: Oi 2 tai Final
+10/01/2022, 23:18 - +880 1670-724679: @8801672301408 konta vai?
+10/01/2022, 23:19 - +880 1672-301408: Pdf 2 ta
+10/01/2022, 23:19 - +880 1670-724679: ok
+10/01/2022, 23:19 - +880 1672-301408: Power point?
+10/01/2022, 23:20 - +880 1672-301408: Syllabus ki oi 2 tai ki na?
+10/01/2022, 23:20 - +880 1670-724679: hmm, class room e deya ache
+10/01/2022, 23:20 - +880 1672-301408: Ok
+10/01/2022, 23:20 - +880 1672-301408: Tnk
+11/01/2022, 22:50 - +880 1712-050585: <Media omitted>
+ai prove gula kew korchen?
+12/01/2022, 15:57 - +880 1772-625585: Sir marks dise
+12/01/2022, 15:57 - +880 1772-625585: Please check
+12/01/2022, 15:57 - +880 1772-625585: Mid 1 and mid 2 er
+12/01/2022, 16:01 - +880 1772-625585: Shoby kemon pelen
+12/01/2022, 16:01 - +880 1772-625585: Me 24+26
+12/01/2022, 16:01 - +880 1751-540721: 24+28
+12/01/2022, 16:02 - +880 1772-625585: Ma sha Allah
+12/01/2022, 16:02 - +880 1751-540721: A o pamu na! 😐
+12/01/2022, 16:02 - +880 1772-625585: Na A to bad e amr jonno
+12/01/2022, 16:03 - +880 1923-508675: ২৬+২৩
+12/01/2022, 16:04 - +880 1670-724679: Sir khub valo :)
+12/01/2022, 16:05 - +880 1672-301408: 7+25😐
+12/01/2022, 16:06 - +880 1670-724679: @8801672301408 !! mid 1 den nai?
+12/01/2022, 16:06 - +880 1751-540721: 7??
+12/01/2022, 16:06 - +880 1672-301408: Valo kore likhte pari nai
+12/01/2022, 16:07 - +880 1672-301408: Office theke ase boschi
+12/01/2022, 16:07 - +880 1751-540721: Ami 2ta exam e disi office e boshe
+12/01/2022, 16:07 - +880 1672-301408: Hmm
+12/01/2022, 16:08 - +880 1672-301408: Ki korbo bolen?
+12/01/2022, 16:09 - +880 1672-301408: Good
+12/01/2022, 16:11 - +880 1670-724679: So Sad
+12/01/2022, 16:16 - +880 1772-625585: Sir alhumdulliah valo num dise
+12/01/2022, 16:16 - +880 1772-625585: Ami to vabsilam r o kom pabo
+12/01/2022, 16:27 - +880 1672-301408: Hmm
+12/01/2022, 16:27 - +880 1672-301408: Of course sir khub bhalo number disen
+12/01/2022, 17:16 - +880 1670-724679: So far, Sir ekdom Ramesh sir er moto valo!
+12/01/2022, 17:17 - +880 1751-540721: Nah, Ramesh sir beshi valo!
+12/01/2022, 17:18 - +880 1772-625585: Uni best
+12/01/2022, 17:20 - +880 1751-540721: Ekhon Shuvo sir er moto na korlei hoilo
+12/01/2022, 18:17 - +880 1976-090348: There is a good chance for that
+13/01/2022, 17:04 - +880 1703-231078: <Media omitted>
+Ei part ta kew ektu explain korte parben?
+13/01/2022, 17:40 - +880 1703-231078: ei part tai ki "Z table" theke value ney naki "t table"
+13/01/2022, 20:27 - +880 1985-034915: Apnara ki onk ei 30 paisen? Sir j blsilo sir 30/30 dey onk.....marks to average grade kmn hbe 😓
+13/01/2022, 20:28 - +880 1985-034915: Sir k ki final er din kichu request kra jay to give some grace marks ?
+13/01/2022, 20:28 - +880 1985-034915: As amr ta average tai bollam r ki
+13/01/2022, 20:29 - +880 1670-724679: i think sir shobai k average marks dise
+13/01/2022, 20:32 - +880 1985-034915: Then can we request anything to sir?
+13/01/2022, 20:32 - +880 1985-034915: Sobai mile
+13/01/2022, 20:33 - +880 1985-034915: Ekta flooring marks grace dile ektu better hoto naile grade to valoi bad ashbe
+13/01/2022, 20:33 - +880 1785-270550: Keu request na korleo ami krbo cz amr 1tay 20 r 1tay 26😑
+13/01/2022, 20:36 - +880 1985-034915: 2nd mid beshi kharap hoise ashole...i guess sobar e
+13/01/2022, 20:41 - +880 1785-270550: Sobar ta jani na
+13/01/2022, 20:42 - +880 1782-238003: আমিও স্যারকে অনুরোধ করবো
+13/01/2022, 20:42 - +880 1670-724679: sir to ajkeo bolse jader result niye confusion ache tader final er por abar exam nibe.
+13/01/2022, 20:46 - +880 1772-625585: Ajk?
+13/01/2022, 20:47 - +880 1670-724679: hmm, ML class e eta niye kotha hoise.
+13/01/2022, 20:47 - +880 1772-625585: Ki bolse?
+13/01/2022, 20:48 - +880 1703-231078: ami ekmot
+13/01/2022, 20:49 - +880 1772-625585: Ok final din bolbo ne grace dawar jonno
+13/01/2022, 20:49 - +880 1703-231078: same, amio korbo
+13/01/2022, 20:49 - +880 1985-034915: Thanks apu...sobai milei ektu blbo ne
+13/01/2022, 20:49 - +880 1670-724679: ekjon maybe STAT exam dite pare nai, tar exam nibe  + jader result niye confusion ache tader sir er sathe contact korte bolse. final er koyek din por arekta exam nibe
+13/01/2022, 20:51 - +880 1703-231078: Confusion sob e dur hoiye jabe amader ektu marks bariye dilei hobe 😢
+13/01/2022, 20:52 - +880 1670-724679: Grace will be better, cz abar exam dite gele aro kharap howar chance ache
+13/01/2022, 20:52 - +880 1772-625585: Amr mone hoi grace better
+13/01/2022, 20:52 - +880 1772-625585: Abar exam dawa risky maybe
+13/01/2022, 20:52 - +880 1703-231078: Grace tai best option hobe
+13/01/2022, 20:52 - +880 1985-034915: Ha vaia setai
+13/01/2022, 20:52 - +880 1703-231078: final taw maybe hard hobe
+13/01/2022, 20:53 - +880 1772-625585: Mone hoche
+13/01/2022, 20:53 - +880 1772-625585: Chapter gula o shubidhar nai
+13/01/2022, 20:54 - +880 1703-231078: final ta sobai mile dile,
+r full ans korte parleii hobe,
+
+sir jodi kichu grace dey tahole amader result ta valoi asbe
+13/01/2022, 20:58 - +880 1785-270550: Ata dada last semister e o apni blsilen, bt kaj hoy na
+13/01/2022, 20:58 - +880 1670-724679: Sir k agei janan, sir jodi exam er preparation niye fele tahole bipod. tokhon bolbe na exam ditei hobe. probably @8801672301408 vai exam dibe
+13/01/2022, 20:59 - +880 1703-231078: ebar kufa lege geche sob kichute
+13/01/2022, 20:59 - +880 1785-270550: 😂
+13/01/2022, 21:01 - +880 1703-231078: sir ke janale valo hoto😢
+13/01/2022, 21:12 - +880 1985-034915: Ha @8801772625585  cr apu ektu dekhen janano jay kina sir k
+13/01/2022, 21:12 - +880 1772-625585: Sir k ki janate hobe??
+13/01/2022, 21:12 - +880 1985-034915: Amra sobai average marks paisi ekta minimal grace expect kre sobai naile khub baje grades ashbe
+13/01/2022, 21:13 - +880 1772-625585: Ok
+13/01/2022, 21:13 - +880 1772-625585: Ami kalk phone dia sir k bolbo
+14/01/2022, 00:47 - +880 1785-270550: <Media omitted>
+ai prove gula ki keu krsen?
+14/01/2022, 17:58 - +880 1712-050585: @Mofassel Hoque vi ki ashen?
+14/01/2022, 23:12 - +880 1670-724679: Ji vai bolen
+15/01/2022, 22:03 - +880 1670-724679: <Media omitted>
+15/01/2022, 22:03 - +880 1670-724679: <Media omitted>
+15/01/2022, 22:04 - +880 1670-724679: Mistake korle plz correct me
+15/01/2022, 22:24 - +880 1703-231078: exam timeo evabei help koiren
+15/01/2022, 23:10 - +880 1785-270550: Thanks @8801670724679 vai
+15/01/2022, 23:11 - +880 1785-270550: Exam time e help koiren
+15/01/2022, 23:11 - +880 1782-238003: সবাই
+15/01/2022, 23:12 - +880 1703-231078: right
+15/01/2022, 23:12 - +880 1785-270550: Kal sobai mile xm dbo
+15/01/2022, 23:13 - +880 1782-238003: ইনশাআল্লাহ
+15/01/2022, 23:14 - +880 1782-238003: দশে মিলে করি কাজ হারি জিতি নাহি লাজ
+15/01/2022, 23:15 - +880 1703-231078: harar kono chance nai sob thakle
+15/01/2022, 23:15 - +880 1670-724679: 🤛🏻
+15/01/2022, 23:15 - +880 1703-231078: *sobai
+15/01/2022, 23:15 - +880 1782-238003: ✌️
+15/01/2022, 23:23 - +880 1785-270550: Sobai xm time a whtsp e active thakle & help korle xm onek valo hbe InsahAllah
+15/01/2022, 23:23 - +880 1785-270550: Kal xm koytay?
+15/01/2022, 23:24 - +880 1782-238003: ইনশাআল্লাহ
+15/01/2022, 23:26 - +880 1785-270550: Kal xm koytay vai?
+15/01/2022, 23:26 - +880 1672-301408: InshaAllah
+15/01/2022, 23:26 - +880 1703-231078: 8 pm
+16/01/2022, 16:39 - +880 1830-033012: <Media omitted>
+16/01/2022, 16:40 - +880 1830-033012: ei example tar 'r' er value keu ber korsen?
+16/01/2022, 17:08 - +880 1670-724679: Apu eta korsen?
+16/01/2022, 17:08 - +880 1830-033012: na kori nai to
+16/01/2022, 17:09 - +880 1830-033012: r er calculation ta hocche na!
+16/01/2022, 19:15 - +880 1751-540721: amaro milena
+16/01/2022, 19:16 - rifat hannan: https://www.mathsisfun.com/data/correlation-calculator.html
+16/01/2022, 19:16 - +880 1830-033012: https://www.socscistatistics.com/tests/pearson/default2.aspx
+16/01/2022, 19:16 - +880 1830-033012: eta diye calculate kora jabe
+16/01/2022, 19:50 - +880 1703-231078: join hote parchen?
+16/01/2022, 19:51 - +880 1782-238003: এক্সাম কয়টা বাজে শুরু হবে????
+16/01/2022, 19:52 - +880 1703-231078: sir to bolchilo 8 ta
+16/01/2022, 19:52 - +880 1672-301408: Na
+16/01/2022, 19:55 - +880 1772-625585: Kao ki join korsen???
+16/01/2022, 19:56 - +880 1751-540721: join kora achi, shudhu sir join koren nai
+16/01/2022, 19:56 - +880 1703-231078: waiting
+16/01/2022, 19:56 - +880 1772-625585: Amr loading show kortese
+16/01/2022, 19:56 - +880 1703-231078: aj final exam help koriyen sobai
+16/01/2022, 19:57 - +880 1672-301408: please
+16/01/2022, 19:57 - +880 1672-301408: sobai
+16/01/2022, 19:57 - +880 1718-973454: sir 9ty xm niben. 
+personal problem.
+16/01/2022, 19:57 - +880 1672-301408: hmm
+16/01/2022, 19:57 - +880 1923-611658: Ok
+16/01/2022, 19:57 - +880 1672-301408: lets discuss about question
+16/01/2022, 19:57 - +880 1718-973454: karo kono prblm ase ?
+thakle janan.
+16/01/2022, 19:58 - +880 1830-033012: This message was deleted
+16/01/2022, 19:58 - +880 1712-050585: na
+16/01/2022, 19:58 - +880 1785-270550: Dhur😑
+16/01/2022, 19:58 - +880 1718-973454: xm 9ty
+16/01/2022, 19:58 - +880 1923-611658: Na amar problem nai.
+16/01/2022, 19:58 - +880 1772-625585: 9pm?
+16/01/2022, 19:58 - +880 1672-301408: 8 tay hole valo hoto
+tobe no problem
+16/01/2022, 19:58 - +880 1718-973454: hum
+16/01/2022, 19:59 - +880 1830-033012: ektu age age janato sir!!😢
+16/01/2022, 20:00 - +880 1703-231078: ques ta diye dik sir, amra exam start kori
+16/01/2022, 20:00 - +880 1672-301408: 😞 hmm tao kotha thik
+16/01/2022, 20:00 - +880 1830-033012: agreed
+16/01/2022, 20:00 - +880 1672-301408: thik thik.....
+16/01/2022, 20:00 - +880 1772-625585: Ami amni 3rd time covid positive amr to body choltese na r....😞
+16/01/2022, 20:00 - +880 1718-973454: kotha sune mone hoilo sir baire.
+16/01/2022, 20:00 - +880 1300-014319: sir may be question ready korteche
+16/01/2022, 20:00 - +880 1830-033012: i guessed so
+16/01/2022, 20:00 - +880 1772-625585: Shoby help koiren...
+16/01/2022, 20:01 - +880 1703-231078: tahole ja bolche, ta r dibe na, sir vule geche
+16/01/2022, 20:01 - +880 1751-540721: 😔
+16/01/2022, 20:01 - +880 1672-301408: agreed
+16/01/2022, 20:01 - +880 1782-238003: 3rd time????  😳
+16/01/2022, 20:01 - +880 1772-625585: Hmmm
+16/01/2022, 20:01 - +880 1672-301408: Oreeeee
+16/01/2022, 20:02 - +880 1751-540721: Rubyat pura Covid positive howar world record korsen!
+16/01/2022, 20:02 - +880 1672-301408: Dowa roilo @8801772625585 , get well soon
+16/01/2022, 20:02 - +880 1703-231078: apni onek strong
+16/01/2022, 20:02 - +880 1772-625585: 🤣every year ekber kore🤣
+16/01/2022, 20:03 - +880 1772-625585: Doa koiren shoby amr jonno...😞
+16/01/2022, 20:03 - +880 1751-540721: InshaAllah
+16/01/2022, 20:03 - +880 1782-238003: Obossoi allah vhorosha
+16/01/2022, 20:03 - +880 1830-033012: get well soon
+16/01/2022, 20:03 - +880 1712-050585: Insallah you will be fine soon
+16/01/2022, 20:03 - +880 1675-792434: Thik hoa jaben.... Allah vorossa 🙂
+16/01/2022, 20:04 - +880 1672-301408: InshaAllah
+16/01/2022, 20:04 - +880 1772-625585: In sha Allah
+16/01/2022, 20:05 - +880 1670-724679: Fiamanillah
+16/01/2022, 20:05 - +880 1672-301408: আমরা কি সবাই প্রশ্ন নিয়ে আলোচনা করতে পারি?
+16/01/2022, 20:05 - +880 1672-301408: কি ধরণের প্রশ্ন হবে?
+16/01/2022, 20:06 - +880 1923-508675: #help
+
+বইয়ের কোন কোন চেপ্টারের উপর আজকে পরিক্ষা ? 
+স্যার লাস্ট যেই দুইটা স্লাইড দিসে এর বাইরে কি আর কোন সিলেবাস আসে ?
+স্লাইড আর বই বাদে কারো কাসে আর কোন রিসোর্স থাকলে সেয়ার দিয়েন
+16/01/2022, 20:06 - +880 1751-540721: calm down, eto hyped/tensed howar kisu nai
+16/01/2022, 20:07 - +880 1672-301408: vai help korben, hope
+16/01/2022, 20:07 - +880 1772-625585: Amr mone hoi sir last cls ja bolse ta ashbe na... jodi uni akhon question kore...
+16/01/2022, 20:08 - +880 1751-540721: true that
+16/01/2022, 20:08 - +880 1670-724679: chap 6,7
+16/01/2022, 20:09 - +880 1703-231078: tahole ekhn e khali khata scan kore joma diya deya  valo 😢
+16/01/2022, 20:10 - +880 1672-301408: 😢😢
+16/01/2022, 20:10 - +880 1672-301408: emni tey amar 1st mid baje hoise
+16/01/2022, 20:10 - +880 1772-625585: 1st ay sir k bolte hobe grace mark er kotha
+16/01/2022, 20:10 - +880 1772-625585: Shoby support diben
+16/01/2022, 20:10 - +880 1923-508675: হাইপ না ভাই, পরিক্ষার আগে ক্লিয়ার সিলেবাস জানা থাকলে গুগল করতে সুবিধা হয়।
+16/01/2022, 20:11 - +880 1703-231078: thik
+16/01/2022, 20:11 - +880 1672-301408: Grace dile ki ami per pabo? ami to LUCKY 7
+16/01/2022, 20:12 - +880 1703-231078: par vai sobai hobe,
+ekhn ke kon vabe par hoy setai dekhar bishoy
+16/01/2022, 20:12 - +880 1672-301408: hmm
+16/01/2022, 20:12 - +880 1772-625585: Apni abar exam dite paren k jani dibe exam...
+16/01/2022, 20:12 - +880 1772-625585: Shetai
+16/01/2022, 20:12 - +880 1751-540721: A+ pete r koto deri panjeri(dada)?
+16/01/2022, 20:13 - +880 1672-301408: hmm, sir er sathe kotha hoise
+16/01/2022, 20:13 - +880 1672-301408: A+ 😮
+16/01/2022, 20:14 - +880 1703-231078: 😀😀
+amar ekhn eta shopne dekhar bishoy,
+amar B niye taka tani lege geche
+16/01/2022, 20:17 - +880 1521-227101: Join korse sir?
+16/01/2022, 20:18 - +880 1772-625585: No
+16/01/2022, 20:18 - +880 1703-231078: exam 9 tai
+poren vai
+16/01/2022, 20:18 - +880 1751-540721: pisailo kokhon?
+16/01/2022, 20:19 - +880 1703-231078: ektu agei vai
+16/01/2022, 20:21 - +880 1703-231078: Sir er naki personal problem,
+9 tai exam nibe
+16/01/2022, 20:21 - +880 1772-625585: Questions ta dia dito....😞
+16/01/2022, 20:22 - +880 1751-540721: video on kore exam deoa lagbe, she ek2 dekhe confirm kore then dibe
+16/01/2022, 20:54 - +880 1672-301408: exam ki hobe ?
+16/01/2022, 20:55 - +880 1675-792434: G... 9ta baj
+16/01/2022, 20:58 - +880 1672-301408: সবাই সাহায্যের হাত বাড়িয়ে দিবেন প্লিজ
+16/01/2022, 21:00 - +880 1772-625585: Join plz
+16/01/2022, 21:00 - +880 1772-625585: Shoby
+16/01/2022, 21:00 - +880 1772-625585: Sir join korse
+16/01/2022, 21:03 - +880 1782-238003: qustion ki diche ???
+16/01/2022, 21:03 - +880 1751-540721: not yet
+16/01/2022, 21:03 - +880 1703-231078: no
+16/01/2022, 21:03 - +880 1772-625585: Na
+16/01/2022, 21:04 - +880 1772-625585: Shober jonno wait kortese sir
+16/01/2022, 21:04 - +880 1772-625585: Shoby join dile then
+16/01/2022, 21:05 - +880 1751-540721: office e boshe moshar kamor khaitesi, sir r koto deri korbe?
+16/01/2022, 21:06 - +880 1751-540721: shoby join koren please
+16/01/2022, 21:06 - +880 1772-625585: Sir k boli shoby join korse
+16/01/2022, 21:06 - +880 1830-033012: ha
+16/01/2022, 21:06 - +880 1751-540721: ei subject e total koyjon student
+16/01/2022, 21:06 - +880 1772-625585: 26
+16/01/2022, 21:07 - +880 1772-625585: Sir koi gelo... amr kotha ki shuna jay na
+16/01/2022, 21:08 - +880 1923-611658: Sunte paisi sir may be nai
+16/01/2022, 21:08 - +880 1772-625585: Sir 9:10 e start korbe
+16/01/2022, 21:09 - +880 1751-540721: babu k ghum paraite gese maybe
+16/01/2022, 21:10 - +880 1772-625585: R o 3mib
+16/01/2022, 21:10 - +880 1772-625585: 3min
+16/01/2022, 21:10 - +880 1703-231078: aj hewo bolar kew nai taile
+16/01/2022, 21:10 - +880 1772-625585: 🤣
+16/01/2022, 21:11 - +880 1703-231078: kew bolben na sir ke?
+16/01/2022, 21:11 - +880 1703-231078: amader number er jonno
+16/01/2022, 21:12 - +880 1772-625585: Ami boltesi
+16/01/2022, 21:12 - +880 1772-625585: Sir koi gelo
+16/01/2022, 21:12 - +880 1703-231078: ques dite
+16/01/2022, 21:13 - +880 1300-014319: ques diche
+16/01/2022, 21:14 - +880 1923-611658: 1
+2
+2
+3
+16/01/2022, 21:14 - +880 1772-625585: Ki
+16/01/2022, 21:14 - +880 1923-611658: qus er serial
+16/01/2022, 21:15 - +880 1703-231078: e ki ques dulo
+16/01/2022, 21:15 - +880 1703-231078: dilo
+16/01/2022, 21:15 - +880 1782-238003: ki qustion e ???
+16/01/2022, 21:16 - +880 1670-724679: vai Time niya vaiben na sir time dibe
+16/01/2022, 21:17 - +880 1772-625585: Eta ki ques
+16/01/2022, 21:17 - +880 1672-301408: 🧐😢
+16/01/2022, 21:20 - +880 1670-724679: Marse, kothay gelo sir er Ashbeeeei gula?
+16/01/2022, 21:21 - +880 1670-724679: 4. no ta ki mcq?
+16/01/2022, 21:25 - +880 1703-231078: ektu dekhaiyen
+16/01/2022, 21:26 - +880 1772-625585: A hypothesis test is performed of the null hypothesis H0 : μ = 0. The P-value turns out to 
+be 0.03. Is the result statistically significant at the 10% level? The 5% level? The 1% level? 
+Is the null hypothesis rejected at the 10% level? The 5% level? The1% level?
+16/01/2022, 21:34 - rifat hannan: book page no 406
+16/01/2022, 21:35 - rifat hannan: example 6.3
+16/01/2022, 21:38 - +880 1319-209757: 2 korsen keu??
+16/01/2022, 21:46 - +880 1782-238003: vai 2 no.???
+16/01/2022, 21:46 - +880 1782-238003: kew korchen ???
+16/01/2022, 21:46 - +880 1772-625585: <Media omitted>
+16/01/2022, 21:46 - +880 1703-231078: vai 4 ta kivabe likhlen?
+16/01/2022, 21:46 - +880 1772-625585: Eta ans ki only aytuku naki porer page tao likhte hobe?
+16/01/2022, 21:49 - +880 1830-033012: eituk e
+16/01/2022, 21:50 - +880 1830-033012: simple linear regression kothay ase?
+16/01/2022, 21:50 - +880 1772-625585: 1no k ki likhsen
+16/01/2022, 21:52 - +880 1923-508675: <Media omitted>
+16/01/2022, 21:53 - +880 1923-508675: <Media omitted>
+16/01/2022, 21:53 - +880 1703-231078: 4 likhchen?
+16/01/2022, 22:00 - +880 1712-050585: 4 likchen kew?
+16/01/2022, 22:01 - +880 1923-508675: চেপ্টার ৭.৪ এর ১২ নাম্বারের সলুসন আসে কারো কাসে এইটাই ৪ নাম্বার প্রশ্নের এন্সার
+16/01/2022, 22:02 - +880 1785-270550: 3 disen keu?
+16/01/2022, 22:04 - +880 1785-270550: atar ki porer page o likhte hbe?
+16/01/2022, 22:04 - rifat hannan: nah
+16/01/2022, 22:05 - +880 1772-625585: No
+16/01/2022, 22:05 - +880 1785-270550: sudhu atotuku e?
+16/01/2022, 22:05 - +880 1782-238003: ha
+16/01/2022, 22:06 - +880 1785-270550: thanks
+16/01/2022, 22:07 - +880 1703-231078: page koto vai
+16/01/2022, 22:07 - +880 1782-238003: 4 no. ki kew likhchen ??
+16/01/2022, 22:12 - +880 1782-238003: ভাই
+16/01/2022, 22:12 - +880 1782-238003: 4 kew likhchen
+16/01/2022, 22:12 - +880 1782-238003: ???
+16/01/2022, 22:14 - +880 1672-301408: kew pay nai
+16/01/2022, 22:16 - +880 1923-508675: https://www.chegg.com/homework-help/materials-scientist-experimenting-new-material-make-beverage-chapter-7.4-problem-12se-solution-9780072551600-exc
+
+
+এইখানে আসে কিন্তু দেখা যায় না
+16/01/2022, 22:16 - +880 1751-540721: pay kore dekhen, duh
+16/01/2022, 22:17 - +880 1923-611658: 588
+16/01/2022, 22:17 - +880 1830-033012: keu likhsen?
+16/01/2022, 22:20 - +880 1782-238003: <Media omitted>
+16/01/2022, 22:20 - +880 1923-508675: <Media omitted>
+16/01/2022, 22:21 - +880 1751-540721: 4 er answer ii howa uchit, karon physical law change kora jayna, eijonnoi maybe sir boltesilen j eita shobcheye easy question.
+16/01/2022, 22:22 - +880 1923-508675: http://icheggfree.com/?cheToken=MTY0MjM1MDAxNl81ODU4YTcwN2Q2NGRmMzcyN2I4ZDc1ODExNGNmNmEwNw==&tCheStemId=2417
+
+আনলক হইসে
+16/01/2022, 22:22 - rifat hannan: ha etai hobe maybe
+16/01/2022, 22:22 - +880 1772-625585: Ans 4hobe maybe
+16/01/2022, 22:23 - +880 1830-033012: 4 e ki prottek ta explain kore bujhate hbe je konta keno hobe na?
+16/01/2022, 22:23 - +880 1772-625585: Na 1ta dile to hoi maybe
+16/01/2022, 22:24 - +880 1976-090348: sir to bollo jeta answer oita likhlei hobe
+16/01/2022, 22:25 - +880 1300-014319: <Media omitted>
+16/01/2022, 22:26 - rifat hannan: thank you very much
+16/01/2022, 22:27 - +880 1751-540721: Thanks a lot
+16/01/2022, 22:40 - +880 1830-033012: sir ki time barabe bolsilo?
+16/01/2022, 22:40 - rifat hannan: 10:30
+16/01/2022, 22:41 - +880 1830-033012: etai assigned kora chilo!
+bt submit korlam matro!
+16/01/2022, 22:41 - +880 1751-540721: Bepar na, emniteo sir question derite dise
+16/01/2022, 22:41 - rifat hannan: me too
+16/01/2022, 22:42 - +880 1703-231078: sir ques diche
+9:12 te
+16/01/2022, 22:42 - +880 1772-625585: Sir 10min extra dibe bolsilo
+16/01/2022, 22:42 - +880 1830-033012: ekhon late submission dekhacche 😰
+16/01/2022, 22:42 - +880 1751-540721: Pore na bollo j max 1:30 hr korbe?
+16/01/2022, 22:44 - +880 1772-625585: Ha late dekhache
+16/01/2022, 22:44 - +880 1772-625585: Maybe sir late count korbe na
+16/01/2022, 22:45 - +880 1703-231078: sir grace dibe na?
+16/01/2022, 22:45 - +880 1772-625585: Majh dia to bollam sir ki shune nai...?ami then disconnected hoa gesilam....
+16/01/2022, 22:46 - +880 1703-231078: kijno, apu
+16/01/2022, 22:46 - +880 1703-231078: sobai bolar theke 1 jon bola valo
+16/01/2022, 22:46 - +880 1703-231078: apu
+16/01/2022, 22:50 - +880 1670-724679: late submit korle ki resutl e kono problem hoy?
+16/01/2022, 22:50 - +880 1300-014319: na bhai
+16/01/2022, 22:50 - +880 1300-014319: tension niyen na
+16/01/2022, 22:51 - +880 1672-301408: sir late count korbe na may be
+16/01/2022, 22:51 - +880 1772-625585: Shoby leave nia nise ki bolbo me
+16/01/2022, 22:51 - +880 1672-301408: 8 jon asen
+16/01/2022, 22:51 - +880 1670-724679: bakira thaken plz
+16/01/2022, 22:52 - +880 1772-625585: Ami boltesi
+16/01/2022, 22:52 - +880 1772-625585: Jara asen tarao o bolen
+16/01/2022, 22:53 - +880 1772-625585: Bollam to sir shune na
+16/01/2022, 22:53 - +880 1772-625585: Apnar o kisu bollen
+16/01/2022, 22:53 - +880 1985-034915: Sir jdi ashe then blte hbe
+16/01/2022, 22:54 - +880 1985-034915: Sir may be nai
+16/01/2022, 22:54 - +880 1672-301408: sir nai
+16/01/2022, 22:54 - +880 1670-724679: sir ki amader sub kore chole jete bolse?
+16/01/2022, 22:54 - +880 1672-301408: hmm
+16/01/2022, 22:54 - +880 1985-034915: Ha
+16/01/2022, 22:54 - +880 1985-034915: 😓
+16/01/2022, 22:54 - +880 1672-301408: bolsen jader hoise chole jan
+16/01/2022, 22:59 - +880 1772-625585: 🤣
+16/01/2022, 22:59 - +880 1672-301408: 😂😂
+16/01/2022, 22:59 - +880 1670-724679: 😅
+16/01/2022, 22:59 - +880 1672-301408: thanks everyone
+16/01/2022, 22:59 - +880 1772-625585: Last conversation video kora rakhle valo hoto
+16/01/2022, 22:59 - +880 1672-301408: thanks for Cooperation
+16/01/2022, 23:00 - +880 1672-301408: Hmmmm taile marks barate grace lagto na
+16/01/2022, 23:00 - +880 1672-301408: 😂🤣🤣
+16/01/2022, 23:00 - +880 1703-231078: r vejal lagaiyen na
+ami kichu jani na
+16/01/2022, 23:00 - +880 1772-625585: Thanks you everyone...
+Eta amr last semester chillo... shoby k miss korbo.... 💕
+16/01/2022, 23:00 - +880 1672-301408: ji vai ami kisu suni nai
+16/01/2022, 23:01 - +880 1772-625585: Ami hotat kore khayal korsi r a sir o to ase...
+16/01/2022, 23:01 - +880 1772-625585: 🤣
+16/01/2022, 23:01 - +880 1672-301408: Ki moja
+আমার হলো শুরু, তোমার হলো সারা
+16/01/2022, 23:01 - +880 1703-231078: amaro last, jodi project ta chare rki😞😞
+16/01/2022, 23:02 - +880 1772-625585: Kono vabe help korte parle amk mone koiren...
+16/01/2022, 23:02 - +880 1703-231078: sir ghume geche
+sir r video o record kore nai
+16/01/2022, 23:02 - +880 1772-625585: Allah bachaise
+16/01/2022, 23:03 - +880 1772-625585: Na hole last conversation a viral hoa jetam amra
+16/01/2022, 23:03 - +880 1672-301408: Congratulation everyone who complete session in this semester
+16/01/2022, 23:03 - +880 1672-301408: Allah ja koren valor jonno koren
+16/01/2022, 23:03 - +880 1703-231078: mora re r ki marbe?
+16/01/2022, 23:03 - +880 1672-301408: 🤣🤣😂😂
+16/01/2022, 23:03 - +880 1670-724679: 😄😄
+16/01/2022, 23:04 - +880 1672-301408: Ghum dei
+sobaike GOOD NIGHT
+16/01/2022, 23:04 - +880 1670-724679: Rubyat Apu, Partha Da all the best. keep in touch in these group.
+16/01/2022, 23:05 - +880 1703-231078: Sure 😊
+16/01/2022, 23:05 - +880 1672-301408: hmm
+same request dear @8801772625585 @8801703231078
+16/01/2022, 23:06 - +880 1772-625585: Sure...💕
+16/01/2022, 23:06 - +880 1703-231078: @8801772625585 apu sir ke ektu boilen jate kichu doya maya dekhay
+16/01/2022, 23:06 - +880 1772-625585: Ok kalk phone dibo
+16/01/2022, 23:08 - +880 1703-231078: 🤞🏻
+16/01/2022, 23:08 - +880 1300-014319: Ajke MSc. Last xm dilam 😁
+16/01/2022, 23:08 - +880 1300-014319: Sir k khub miss korbo ☹️
+16/01/2022, 23:08 - +880 1703-231078: apnar na r ekta baki
+16/01/2022, 23:09 - +880 1703-231078: ami hewo miss korbo
+16/01/2022, 23:09 - +880 1300-014319: Shes bhai. R koto course korbo
+16/01/2022, 23:10 - +880 1703-231078: extra knowledge dorkar ache r kichu koren
+16/01/2022, 23:12 - +880 1300-014319: Algorithm neyar icche chilo ☹️
+16/01/2022, 23:12 - +880 1703-231078: nen 😀😀
+16/01/2022, 23:12 - +880 1300-014319: Apni nile nite pari bhai 😁
+16/01/2022, 23:13 - +880 1300-014319: Algorithm subject ta khub mojar chilo 😬
+16/01/2022, 23:13 - +880 1751-540721: Sir ta bade
+16/01/2022, 23:14 - +880 1703-231078: ami kore felchi vai
+16/01/2022, 23:14 - +880 1830-033012: thanks everyone for helping😇😇
+16/01/2022, 23:14 - +880 1703-231078: sir o valo 😍
+16/01/2022, 23:14 - +880 1300-014319: Tahole abr nen 🤣
+16/01/2022, 23:15 - +880 1703-231078: sir khub valo, opoman sobar samne kore na
+16/01/2022, 23:15 - +880 1703-231078: na na, r na
+16/01/2022, 23:16 - +880 1751-540721: Khali presentation er shmy rin power white diye dhuye dey
+16/01/2022, 23:17 - +880 1300-014319: Shudu rin na wheel, chaka, surfexel sob ak shate diye dhuye dei
+16/01/2022, 23:19 - +880 1703-231078: amak bolchilo, apni giye ro sobaike join kore thakte bole,
+
+amar hashi mukh dekhe sobai ki khushi😀😀😀😀
+16/01/2022, 23:19 - +880 1670-724679: vai ami next sem e algo nibo vabsilam. apnar to voy pawai dilen, 
+vai course content gulo jodi share diten tahole opoman howar agei prepare thakte partam
+16/01/2022, 23:20 - +880 1985-034915: Easy ase vaia jdi monojog den marks tula easy
+16/01/2022, 23:21 - +880 1985-034915: inreactive hoite hoy with sir
+16/01/2022, 23:21 - +880 1300-014319: Next semester offline hobe 😬
+16/01/2022, 23:21 - +880 1985-034915: Amader viva o easy chilo
+16/01/2022, 23:21 - +880 1703-231078: ra vai voy kiser, sir apnar voy dur kore dibe,
+
+amar moton jodi man-somman kichu na thake tahole voy er kichu nai
+16/01/2022, 23:22 - +880 1703-231078: vul math eo marks dey process thik thakle
+16/01/2022, 23:22 - +880 1703-231078: 😳
+16/01/2022, 23:23 - +880 1670-724679: Goriber to mashomman e shombol, apnara upper class oita thaklei ki na thaklei ki 😄
+16/01/2022, 23:24 - +880 1703-231078: 😀😀😀😀
+
+goriber name man-somman
+16/01/2022, 23:25 - +880 1670-724679: 😀😀😀
+16/01/2022, 23:27 - +880 1712-050585: Also my last exam. Miss you all & exam, class tension also. Thank for all cooperation.
+16/01/2022, 23:29 - +880 1712-050585: Thank you
+16/01/2022, 23:29 - +880 1670-724679: Thanks for the mental support, Partha Da to tension e fele disilo. but dont mind ekta kotha ki janen, female favour er karone sir ra surfexcel kom dey, jeta male er belay double diye cover kore ney 😁
+16/01/2022, 23:30 - +880 1670-724679: All the best
+16/01/2022, 23:54 - +880 1703-231078: 😀
+17/01/2022, 09:44 - +880 1785-270550: Vai presentation & viva te bujhte parben
+20/01/2022, 15:18 - +880 1830-033012: last semester e sumon sir er kase ML korsen emn keu ki achen? gotobarer final er question ta ki share kora jabe kindly?
+20/01/2022, 16:22 - +880 1782-238003: Ml er final aj
+20/01/2022, 16:23 - +880 1830-033012: ji
+20/01/2022, 16:24 - +880 1782-238003: Ha
+20/01/2022, 16:25 - +880 1703-231078: stat e kemon marks diche ask koiren to
+20/01/2022, 16:25 - +880 1703-231078: sir ke kichu bariye dite boilen
+20/01/2022, 16:37 - +880 1672-301408: Sir er sathe kotha bolecilam 
+Sir bolsen mark er bisoy e dekhben.
+20/01/2022, 16:38 - +880 1703-231078: sir eta odin e vule geche
+20/01/2022, 16:40 - +880 1672-301408: Pore o bolesilam, takhon bolsilo khata dekhe tarpor vabben.
+20/01/2022, 17:01 - +880 1718-973454: final er marks dise?  @8801703231078 da
+25/01/2022, 14:37 - +880 1672-301408: Result dey nai
+25/01/2022, 14:38 - +880 1782-238003: Ter pacchi na
+26/01/2022, 15:02 - +880 1672-301408: Kono update ase dear CR
+26/01/2022, 15:09 - +880 1718-973454: sir phn dhore na.
+27/01/2022, 22:33 - +880 1976-090348 left
+27/01/2022, 10:16 - +880 1703-231078: Stat result ki published hoiche?
+27/01/2022, 10:17 - +880 1830-033012: onno course er result er msg paisi! stat ar ML painai!
+27/01/2022, 10:18 - +880 1785-270550: ML dise
+27/01/2022, 10:18 - +880 1830-033012: ewu theke msg paisen??
+27/01/2022, 10:19 - +880 1785-270550: Na
+27/01/2022, 11:11 - +880 1712-050585: Result dilo na keno?
+27/01/2022, 11:12 - +880 1772-625585: Amder result dibe kobe?
+27/01/2022, 11:21 - +880 1830-033012: sir mnehy grade submit e kore nai
+27/01/2022, 11:22 - +880 1751-540721: Sir to ebar Machine Learning o niyeche, probably oitar result o submit korenni
+27/01/2022, 11:23 - +880 1319-209757: Database o to pelem na
+27/01/2022, 11:24 - +880 1319-209757: Ramesh sir er
+27/01/2022, 11:24 - +880 1830-033012: ji!  stat ar ML konotai painai
+28/01/2022, 09:31 - +880 1976-090348 was added
+27/01/2022, 11:55 - +880 1976-090348: due time a submit hoy nai result
+27/01/2022, 11:55 - +880 1976-090348: submit hoile peye jaben sobai
+27/01/2022, 11:56 - +880 1772-625585: Sir submit kobe korbe?
+27/01/2022, 11:56 - +880 1976-090348: vule gesilo may be :p
+27/01/2022, 11:57 - +880 1976-090348: eta versity thekei call dibe
+27/01/2022, 12:08 - +880 1712-050585: CR please call sir for result publising
+27/01/2022, 12:09 - +880 1703-231078: @8801772625585 
+@8801976090348
+27/01/2022, 12:10 - +880 1976-090348: Result sir nijei dibe, there is no need to bother about it
+27/01/2022, 12:11 - +880 1703-231078: eto din wait korchen r 1-2 din wait koren, result paben
+28/01/2022, 09:31 - +880 1976-090348 left
+27/01/2022, 16:22 - +880 1772-625585: Baki result peye gesi
+27/01/2022, 16:22 - +880 1772-625585: Statistics tai baki
+27/01/2022, 16:23 - +880 1319-209757: Ml and stat er results diyeche?
+27/01/2022, 16:23 - +880 1772-625585: No
+27/01/2022, 21:55 - +880 1772-625585: Sir marks dise
+27/01/2022, 21:55 - +880 1772-625585: K koto paisen final exam a?
+27/01/2022, 21:55 - +880 1319-209757: 28
+27/01/2022, 21:56 - +880 1772-625585: Me 27
+27/01/2022, 22:00 - +880 1830-033012: 27/100🙄
+27/01/2022, 22:00 - +880 1319-209757: This message was deleted
+27/01/2022, 22:01 - +880 1675-792434: 27/100 kmne 🤔🤔
+27/01/2022, 22:01 - +880 1985-034915: Tar mane sir ekhn sesh krtase  check kora....klm hoyto amra official result pabo portal e
+27/01/2022, 22:12 - +880 1751-540721: 26! 😔
+27/01/2022, 22:12 - +880 1751-540721: 88 te ki grade?
+27/01/2022, 22:14 - +880 1672-301408: A-
+27/01/2022, 22:14 - +880 1751-540721: Alhamdulillah then, etao to vabsilam pabona
+27/01/2022, 22:14 - +880 1672-301408: Ji
+27/01/2022, 22:14 - +880 1830-033012: sir ki grace dibe na ektu?😢
+27/01/2022, 22:14 - +880 1672-301408: Very gd marks
+27/01/2022, 22:15 - +880 1672-301408: Jani na
+27/01/2022, 22:23 - +880 1830-033012: grace na dile ei course er jnno cgpa down hobe!😢
+27/01/2022, 22:25 - +880 1703-231078: eta ki 100 te dilo naki
+30 te marks dilo
+28/01/2022, 09:31 - +880 1976-090348 was added
+27/01/2022, 22:28 - +880 1976-090348: its in 30
+27/01/2022, 22:31 - +880 1703-231078: sir ki grace dibe na?
+27/01/2022, 22:31 - +880 1751-540721: Dada, koto grace dile A+ paben?
+27/01/2022, 22:33 - +880 1703-231078: ei dhoren 10-15 🤞🏻
+27/01/2022, 22:33 - +880 1976-090348: good bye people
+this ends my courses for msc
+best of luck
+27/01/2022, 23:01 - +880 1751-540721: East west e cgpa valo pabar asha kore kono lav nai
+28/01/2022, 09:31 - +880 1976-090348 left
+28/01/2022, 13:50 - +880 1703-231078: stat result ki ekhno kew paichen portal e?
+28/01/2022, 13:51 - +880 1830-033012: nah
+29/01/2022, 13:40 - +880 1772-625585: Amder result kobe dibe?
+29/01/2022, 13:41 - +880 1985-034915: Etai toh bujhlam na...sir ki submit kre nai naki ki...etodin hye gelo
+29/01/2022, 14:00 - +880 1751-540721: ager dui mid r eibar j marks dise, shetar shathe attendance er 10 marks add korlei apnar result peye jaben
+29/01/2022, 14:00 - +880 1830-033012: tao officially result dekhar ekta bepar ase na?😐
+29/01/2022, 14:19 - +880 1772-625585: Convocation apply korbo r o onek kaj baki... result dia dile valo hoto...😑
+30/01/2022, 11:57 - +880 1785-270550: Sir ki portal e result publish krben nam
+30/01/2022, 11:57 - +880 1785-270550: *na?
+30/01/2022, 11:57 - +880 1985-034915: Eta sir valo janen 🥲
+30/01/2022, 11:58 - +880 1772-625585: Sir ki vule gese
+30/01/2022, 11:58 - +880 1985-034915: Sir k keu contact krle valo hoto....naki department e jogajog krbo bujhtasina....
+30/01/2022, 12:02 - +880 1785-270550: Keu contact koren
+30/01/2022, 12:02 - +880 1785-270550: Nahole department e contact kore bolte hobe
+30/01/2022, 15:37 - +880 1772-625585: Kao contact koren
+31/01/2022, 00:49 - +880 1785-270550: Result publish ki krbe na sir?
+31/01/2022, 00:49 - +880 1785-270550: Portal e ki add hbe naki hbe na?
+31/01/2022, 10:19 - +880 1672-301408: Bujtasi na
+31/01/2022, 10:20 - +880 1672-301408: Sir ke phone disen kew
+31/01/2022, 10:41 - +880 1703-231078: department e maybe bolte hobe
+31/01/2022, 10:56 - +880 1772-625585: Dept phone disilam receive kore nai
+31/01/2022, 10:57 - +880 1830-033012: semester break chole ..tai depr off ..
+kalke khulbe varsity
+31/01/2022, 10:58 - +880 1772-625585: Ok tahole r 1din wait kori...
+Kalk na dile apnader shoby k cc te rekhe me cse help desk me mail dibo ..ki bolen apnara...?
+31/01/2022, 11:00 - +880 1830-033012: ji apu etai valo hoy... possible hole taskeed sir keo cc te rakhben...
+31/01/2022, 11:04 - +880 1772-625585: Ok
+31/01/2022, 11:04 - +880 1772-625585: Ha taskeed sir k cc te rakhle taratari kaj hoi
+31/01/2022, 11:20 - +880 1985-034915: Ami department e register k personally call dilam....uni bollen sir e result submit kre nai......sir k mail dite bollo chairperson sir k cc te rekhe
+31/01/2022, 11:20 - +880 1830-033012: ekhono submit e kore nai?🙄
+31/01/2022, 11:20 - +880 1985-034915: Department r kase 520 & 521 er result ashei nai
+31/01/2022, 11:20 - +880 1985-034915: Nah
+31/01/2022, 11:20 - +880 1772-625585: Tahole mail kori sir k?
+31/01/2022, 11:21 - +880 1772-625585: Amon vule gele kivabe hobe
+31/01/2022, 11:22 - +880 1985-034915: Ji apu kren
+31/01/2022, 11:23 - +880 1985-034915: Naki ami dibo mail apu? Cuz ami 521 eo asi taile duita course r kotha ekbarei bltam
+31/01/2022, 11:24 - +880 1772-625585: Ok tahole apni koren
+31/01/2022, 11:24 - +880 1985-034915: Okay
+31/01/2022, 11:24 - +880 1772-625585: Taskeed sir and css helpdesk obshhoi cc te rakhben
+31/01/2022, 11:25 - +880 1985-034915: Okay apu
+31/01/2022, 11:25 - +880 1772-625585: Mail dia amader inform koiren
+31/01/2022, 11:45 - +880 1319-209757: This message was deleted
+31/01/2022, 11:52 - +880 1985-034915: <Media omitted>
+31/01/2022, 11:52 - +880 1985-034915: Mail dilam...dekha jaak...
+31/01/2022, 11:56 - +880 1772-625585: Shundor hoise
+01/02/2022, 10:19 - +880 1985-034915: Sobai portal dekhen..result has been published
+01/02/2022, 10:20 - +880 1772-625585: K koto paisen
+01/02/2022, 10:23 - +880 1319-209757: This message was deleted
+01/02/2022, 10:23 - +880 1319-209757: A
+01/02/2022, 10:25 - +880 1751-540721: A-
+01/02/2022, 10:48 - +880 1830-033012: sir kono grace mark dilo e na!🙃
+01/02/2022, 10:50 - +880 1772-625585: na dei nai maybe
+01/02/2022, 11:09 - +880 1672-301408: B
+01/02/2022, 15:56 - You left
