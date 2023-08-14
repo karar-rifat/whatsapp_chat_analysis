@@ -1,5 +1,6 @@
 import streamlit
 import streamlit as st
+import matplotlib.pyplot as plt
 
 import helper
 import preprocessor
@@ -23,7 +24,9 @@ if uploaded_file is not None:
     selected_user = st.sidebar.selectbox("show analysis of user: ", user_list)
 
     if st.sidebar.button("Show Analysis"):
-        num_messages, words = helper.fetch_starts(selected_user, df)
+        num_messages, words, num_media_messages, num_links = helper.fetch_starts(
+            selected_user, df
+        )
 
         col1, col2, col3, col4 = st.columns(4)
 
@@ -33,3 +36,29 @@ if uploaded_file is not None:
         with col2:
             st.header("Total Words")
             st.title(words)
+        with col3:
+            st.header("Media Shared")
+            st.title(num_media_messages)
+        with col4:
+            st.header("Links Shared")
+            st.title(num_links)
+
+    if selected_user == "Overall":
+        st.title("Most Active User")
+        x, new_df = helper.most_busy_users(df)
+        fig, ax = plt.subplots()
+
+        col1, col2 = st.columns(2)
+
+        with col1:
+            ax.bar(x.index, x.values)
+            plt.xticks(rotation="vertical")
+            st.pyplot(fig)
+        with col2:
+            st.dataframe(new_df)
+
+    st.title("Wordcloud")
+    df_wc = helper.create_wordcloud(selected_user, df)
+    fig, ax = plt.subplots()
+    plt.imshow(df_wc)
+    st.pyplot(fig)
